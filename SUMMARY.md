@@ -14,6 +14,7 @@
 * [GEX 是什么](basics/what-is-gex.md)
 * [读懂 GexBot](basics/reading-gexbot.md)
 * [末日期权入门](basics/0dte-basics.md)
+* [Volume vs OI 讀法](basics/volume-vs-oi.md)
 
 ## 📎 附录
 
